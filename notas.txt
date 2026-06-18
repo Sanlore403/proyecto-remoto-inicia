@@ -1,1 +1,5 @@
 #Nota: Guardar una copia de seguridad antes de hacer commit o un push
+
+
+
+#Nota: linea final de la nota en copia 1
